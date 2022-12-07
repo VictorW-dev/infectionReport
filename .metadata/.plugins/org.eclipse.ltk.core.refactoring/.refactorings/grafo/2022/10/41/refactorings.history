@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 5 elements to &apos;Infection Report/src/br.com.ufape.aedii.grafos&apos;&#x0D;&#x0A;- Original project: &apos;grafo&apos;&#x0D;&#x0A;- Destination element: &apos;Infection Report/src/br.com.ufape.aedii.grafos&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     Paciente.java&#x0D;&#x0A;     Vertice.java&#x0D;&#x0A;     Aresta.java&#x0D;&#x0A;     Grafo.java&#x0D;&#x0A;     Main.java" description="Copy compilation units" destination="=Infection Report/src&lt;br.com.ufape.aedii.grafos" element1="/grafo\/src&lt;{Paciente.java" element2="/grafo\/src&lt;{Vertice.java" element3="/grafo\/src&lt;{Aresta.java" element4="/grafo\/src&lt;{Grafo.java" element5="/grafo\/src&lt;{Main.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1664990496091" units="5" version="1.0"/>
+</session>
